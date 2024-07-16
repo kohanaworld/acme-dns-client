@@ -1,6 +1,6 @@
 # acme-dns-client
 
-A client software for [acme-dns](https://github.com/joohoi/acme-dns) with emphasis on usability and guidance through
+A client software for [acme-dns](https://github.com/kohanaworld/acme-dns) with emphasis on usability and guidance through
 setup and additional security safeguard mechanisms. It is designed for usage with existing ACME clients with minimal
 configuration.
 
